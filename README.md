@@ -4,17 +4,11 @@
 <!-- Introduction -->
 I'm a passionate Software Engineer and AI Researcher, currently studying Computer Science & Electrical Engineering at the University of Florida. My interests lie in building impactful solutions with cutting-edge technology, including AI systems, full-stack development, and real-time applications.
 
-<!-- Badges -->
-![GitHub followers](https://img.shields.io/github/followers/GebrilFradj?style=social)
-![GitHub stars](https://img.shields.io/github/stars/GebrilFradj?style=social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gebril%20Fradj-blue)](https://www.linkedin.com/in/gebrilfradj/)
-[![Gmail](https://img.shields.io/badge/Gmail-gebilfradj1%40gmail.com-red)](mailto:gebrilfradj1@gmail.com)
-
 ---
 
-<!-- GitHub Stats -->
-### ⚡ GitHub Stats:
-![Gebril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GebrilFradj&show_icons=true&theme=radical)
+<!-- Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gebril%20Fradj-blue)](https://www.linkedin.com/in/gebrilfradj/)
+[![Gmail](https://img.shields.io/badge/Gmail-gebilfradj1%40gmail.com-red)](mailto:gebrilfradj1@gmail.com)
 
 ---
 
@@ -33,13 +27,19 @@ I'm a passionate Software Engineer and AI Researcher, currently studying Compute
 
 ---
 
-<!-- GitHub Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=GebrilFradj&theme=onedark)](https://github.com/GebrilFradj/github-profile-trophy)
+<!-- Featured Projects -->
+### 🚀 Featured Projects:
+- **[Employee Management System](https://github.com/gebrilfradj/EmployeeManagementSystem1)**  
+  A full-stack application for managing employees and interns, powered by AI for enhanced functionality.
+
+- **[Buddy Support](https://github.com/gebrilfradj/BuddySupport)**  
+  A mental health platform designed to connect University of Florida students for peer support.
+
+- **[Melody Mimicry](https://github.com/FluffyNova/Melody-Mimicry)**  
+  An AI-driven tool for generating melodies by analyzing and mimicking musical patterns.
 
 ---
 
-<!-- Summary of repositories -->
-### 🗂️ Some of My Projects:
-- [Employee Management System](https://github.com/gebrilfradj/EmployeeManagementSystem1) - AI-powered employee/intern management full stack application
-- [Buddy Support](https://github.com/gebrilfradj/BuddySupport) - Mental health platform connecting students for peer support
-- [Melody Mimicry](https://github.com/FluffyNova/Melody-Mimicry) - AI-driven tool for generating melodies
+<!-- Fun Fact -->
+### 🎸 Fun Fact:
+I'm currently learning how to play the guitar! 🎶 Always on the lookout for cool new songs to cover and tech projects to build.
