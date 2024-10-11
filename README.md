@@ -40,6 +40,6 @@ I'm a passionate Software Engineer and AI Researcher, currently studying Compute
 
 <!-- Summary of repositories -->
 ### 🗂️ Some of My Projects:
-- [Real-time Multilingual Video Translation](https://github.com/your-project-link) - AI-powered translation system for live videos
-- [Buddy Support](https://github.com/your-project-link) - Mental health platform connecting students for peer support
-- [Melody Mimicry](https://github.com/your-project-link) - AI-driven tool for generating melodies
+- [Employee Management System](https://github.com/gebrilfradj/EmployeeManagementSystem1) - AI-powered employee/intern management full stack application
+- [Buddy Support](https://github.com/gebrilfradj/BuddySupport) - Mental health platform connecting students for peer support
+- [Melody Mimicry](https://github.com/FluffyNova/Melody-Mimicry) - AI-driven tool for generating melodies
