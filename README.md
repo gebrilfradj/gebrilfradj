@@ -30,8 +30,8 @@ I'm a passionate Software Engineer and AI Researcher, currently studying Compute
 - **[Employee Management System](https://github.com/gebrilfradj/EmployeeManagementSystem1)**  
   A full-stack application for managing employees and interns, powered by AI for enhanced functionality.
 
-- **[Buddy Support](https://github.com/gebrilfradj/BuddySupport)**  
-  A mental health platform designed to connect University of Florida students for peer support.
+- **[Real-Time Speech Translator](https://github.com/gebrilfradj/realtime-speech-translator)**  
+  Developed as part of AI research at the University of Florida, this tool performs live speech-to-speech translation using Whisper, M2M100, and Coqui TTS. Designed for real-time multilingual communication with sub-2-second end-to-end latency.
 
 - **[Melody Mimicry](https://github.com/FluffyNova/Melody-Mimicry)**  
   An AI-driven tool for generating melodies by analyzing and mimicking musical patterns.
