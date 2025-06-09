@@ -16,14 +16,12 @@ I'm a passionate Software Engineer and AI Researcher, currently studying Compute
 ### 🛠️ Languages & Tools:
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
-![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft%20Azure)
 
 ---
 
