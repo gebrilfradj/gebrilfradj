@@ -8,7 +8,7 @@ I'm a passionate Software Engineer and AI Researcher, currently studying Compute
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gebril%20Fradj-blue)](https://www.linkedin.com/in/gebrilfradj/)
-[![Gmail](https://img.shields.io/badge/Gmail-gebilfradj1%40gmail.com-red)](mailto:gebrilfradj1@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-gebrilfradj1%40gmail.com-red)](mailto:gebrilfradj1@gmail.com)
 
 ---
 
